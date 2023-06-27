@@ -1,0 +1,9 @@
+Crear un proyecto
+composer create-project laravel/laravel example-app
+
+Configurar el acceso a la base de Datos
+
+Crear todo xd
+php artisan make:model Libro -mcrsf
+mscf -> Migrations, Controller,Resources(create, update, delete), 
+Seeders,  Factory
